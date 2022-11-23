@@ -9,14 +9,13 @@
   Technologies
 </h1>
 <p>
-  <h3>HTML </h3><img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_html_icon_130541.png" width="30" height="30">
+  <img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_html_icon_130541.png" width="30" height="30">
   <h3>CSS3</h3><img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_css_icon_130661.png" width="30" height="30">
   <h3>JavaScript</h3><img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_js_official_icon_130509.png" width="30" height="30">
   <h3>Python</h3><img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/python_vertical_logo_icon_168039.png" width="30" height="30">
 </p>
 <table>
    <tr>
-      <td  valign="center"><p>hola</p></td>
-      <td valign="center"> <img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_html_icon_130541.png" width="30" height="30"></td>
+      <td valign="center"><h3>HTML </h3><img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_html_icon_130541.png" width="30" height="30"></td>
    </tr>
 </table>
