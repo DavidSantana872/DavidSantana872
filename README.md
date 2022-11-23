@@ -9,9 +9,9 @@
   Technologies
 </h1>
 <p>
-  <h2>HTML <img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_html_icon_130541.png" aling="center"></h3>
-  <h2>CSS<img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_css_icon_130661.png"></h3>
-  <h2>JavaScript<img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_js_official_icon_130509.png"></h3>
-  <h2>Python<img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/python_vertical_logo_icon_168039.png"></h3>
+  <h2>HTML <img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_html_icon_130541.png" width="50" height="50"></h3>
+  <h2>CSS<img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_css_icon_130661.png" width="50" height="50"></h3>
+  <h2>JavaScript<img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_js_official_icon_130509.png" width="50" height="50"></h3>
+  <h2>Python<img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/python_vertical_logo_icon_168039.png" width="50" height="50"></h3>
 </p>
 
