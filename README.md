@@ -20,6 +20,9 @@
      <td valign="center">
          <img src = "https://github.com/DavidSantana872/Python/blob/main/imagenes/file_type_css_icon_130661.png" width="20" height="20">
       </td>
+      <td>
+             ![Level: Intermediate](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+      </td>
    </tr>
     <tr>
       <td>
