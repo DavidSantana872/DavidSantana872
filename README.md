@@ -1,6 +1,3 @@
-<p>
-   <img src="https://github.com/DavidSantana872/Python/blob/main/imagenes/readme_logo.png">
-</p>
 
 <h1>Hi, I’m @DavidSantana872</h1> 
 
