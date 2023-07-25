@@ -18,6 +18,4 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0D6EFD?style=for-the-badge&logo=arm&logoColor=white)
-
 <h2>Projects</h2>
