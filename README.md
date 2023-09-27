@@ -19,5 +19,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-FFA500?style=for-the-badge&logo=sql&logoColor=white)
+[![Sass](https://img.shields.io/badge/Sass-FFA500?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/DavidSantana872)
 
 <h2>Projects</h2>
