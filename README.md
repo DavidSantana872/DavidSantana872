@@ -1,4 +1,4 @@
-
+![COVER_DAVID](https://github.com/DavidSantana872/DavidSantana872/assets/86623205/1d7d8cd7-f55f-4205-8a30-00b463e73abc)
 <h1>Hi, I’m @DavidSantana872</h1> 
 
 <h2>About me</h2>
@@ -20,4 +20,6 @@
 ![SQL](https://img.shields.io/badge/SQL-FFA500?style=for-the-badge&logo=sql&logoColor=white)
 [![Sass](https://img.shields.io/badge/Sass-FFA500?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/DavidSantana872)
 
-<h2>Projects</h2>
+<p><img  style="width: 300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidSantana872&show_icons=true&locale=en&layout=compact" alt="DavidSantana872" /></p>
+
+
